@@ -11,8 +11,8 @@ function show() {
 
 function checkForm() {
     let yourname = document.getElementById('yourname').value
-
     let email = document.getElementById('email').value
+
     if (yourname.length == '' || email.length == '') {
         alert('Khong dc bo trong')
     }
