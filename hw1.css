@@ -1,0 +1,38 @@
+header {
+    padding: 10px;
+    background-color: rgb(190, 190, 190);
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: rgb(240, 240, 47);
+}
+
+.header nav>a {
+    color: black;
+    background-color: gray;
+}
+
+.content {
+    margin-top: 2rem;
+    background-color: rgb(190, 190, 190);
+    line-height: 2rem;
+}
+
+.content h2 {
+    color: rgb(112, 112, 112);
+    margin-bottom: 2rem;
+}
+
+th {
+    background-color: rgb(241, 241, 76);
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
